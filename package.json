@@ -1,0 +1,31 @@
+{
+    "name": "darker-bold",
+    "displayName": "Darker Bold",
+    "description": "makes text pop off, with darker background colors!",
+    "version": "0.0.1",
+    "publisher": "erik-khaa",
+    "engines": {
+        "vscode": "^1.93.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "bold",
+        "darker",
+        "colors",
+        "theme",
+        "erik-khaa",
+        "darker-bold"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darker Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darker Bold-color-theme.json"
+            }
+        ]
+    }
+}
